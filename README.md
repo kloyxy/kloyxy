@@ -4,7 +4,7 @@
 - JavaScript
 - Java
 
-### 💻 Actualmente estoy trabajando en:
+### 💻 i am working on:
 - Obito *(Bot Discord)*
 
 
