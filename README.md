@@ -11,7 +11,7 @@
 ### Mis redes sociales: </br>
 - [Discord](https://discord.com/users/561667990911975450)<br>
 - [Twitter](https://twitter.com/dev_kloyxy)<br>
-- [YouTube (Abandonado)](https://www.youtube.com/channel/UC_L99le22N9gbaTDCtafPeA)<br>
+- [YouTube](https://www.youtube.com/channel/UC_L99le22N9gbaTDCtafPeA)<br>
 <!---
 <br>
 <a href="https://github.com/kloyxy">
