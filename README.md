@@ -1,6 +1,6 @@
-### Hola Soy kloyxy, estoy desarrollando bots de Discord y Proximamente más! 🎉
+### Hi I'm kloyxy, I'm developing Discord bots and more to come! 🎉
 
-#### 🔧 Lenguajes de programacion:
+#### 🔧 Programming languages:
 - JavaScript
 - Java
 
@@ -8,7 +8,7 @@
 - Obito *(Bot Discord)*
 
 
-### Mis redes sociales: </br>
+### Social: </br>
 - [Discord](https://discord.com/users/561667990911975450)<br>
 - [Twitter](https://twitter.com/dev_kloyxy)<br>
 - [YouTube](https://www.youtube.com/channel/UC_L99le22N9gbaTDCtafPeA)<br>
