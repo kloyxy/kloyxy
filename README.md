@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola Soy kloyxy, estoy desarrollando bots de Discord y Proximamente más! 🎉
 
-<!--
-**kloyxy/kloyxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔧 Lenguajes de programacion:
+- JavaScript
+- Java
 
-Here are some ideas to get you started:
+### 💻 Actualmente estoy trabajando en:
+- Obito *(Bot Discord)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Mis redes sociales: </br>
+- [Discord](https://discord.com/users/561667990911975450)<br>
+- [Twitter](https://twitter.com/dev_kloyxy)<br>
+- [YouTube (Abandonado)](https://www.youtube.com/channel/UC_L99le22N9gbaTDCtafPeA)<br>
+<!---
+<br>
+<a href="https://github.com/kloyxy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloyxy&theme=dracula&hide_langs_below=1" />
+</a>-->
